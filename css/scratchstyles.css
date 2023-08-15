@@ -1,0 +1,47 @@
+.bold {font-weight: bold;}
+
+body{
+    background-image: url('../Trees.jpg');
+    background-position: top;
+}
+a {color: blue;}
+
+a:visited {
+    color: red;
+    border: 1px #555555;
+    background-color: white;
+
+}
+
+.center {text-align: center;}
+
+.fancy {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.extravagant {color: darkgoldenrod;}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+    background-color: white;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 200px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+.image {
+    top: 314px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+}
